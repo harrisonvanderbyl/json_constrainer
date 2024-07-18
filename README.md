@@ -55,7 +55,8 @@ object = json.loads(generated)
 
 ### Example
 
-![Untitled](JSON%20custom%20specs%20c02e20d6c2a6433a98c1a9df076b04fa/Untitled.png)
+<img width="359" alt="Untitled" src="https://github.com/user-attachments/assets/0ddaad3b-fbb4-4691-9ad7-afc4b7973839">
+
 
 # Level 1:
 Primitive types.
